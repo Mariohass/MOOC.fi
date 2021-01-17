@@ -1,6 +1,6 @@
 # MOOC.fi
-Some of the exercises from University of Helsinki's Object Oriented Programming with Java.<br/>
-Los ejercicios del mooc University of Helsinki's Object Oriented Programming with Java, que me parecieron más interesantes, con  los enunciados de cada uno.
+### Some of the exercises from University of Helsinki's Object Oriented Programming with Java.<br/><br/>
+### Los ejercicios del mooc University of Helsinki's Object Oriented Programming with Java, que me parecieron más interesantes, con  los enunciados de cada uno.
 
 
 
