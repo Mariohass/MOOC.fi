@@ -5,7 +5,7 @@ Algunos de los ejercicios del mooc University of Helsinki's Object Oriented Prog
 
 
 
-#Instrucciones del ejercicio 33.Dungeon:
+## Instrucciones del ejercicio 33.Dungeon:
 
 In this exercise, you implement a dungeon game. In the game, the player is in a dungeon full of vampires. The player has to destroy the vampires before his lamp runs out of battery and the vampires can suck his blood in the darkness. The player can see the vampires with a blinking of their lamp, after which they have to move blind before the following blinking. With one move, the player can walk as many steps as they want.
 
@@ -209,8 +209,10 @@ YOU WIN
 
 
 
-#Instrucciones del ejercicio 43 Game of life:
-#El proyecto incorporaba una interfaz gráfica prefabricada para probar el funcionamiento del programa. Los alumnos solo programamos la lógica.
+## Instrucciones del ejercicio 43 Game of life:
+
+### El proyecto incorporaba una interfaz gráfica prefabricada para probar el funcionamiento del programa. Los alumnos solo programamos la lógica.
+
 
 In this exercise, we implement the application logic of a Game of Life, inheriting a pre-made application body.The application body is in a library which has been added to the project singularly, and its source codes are not visible.
 
